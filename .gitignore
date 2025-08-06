@@ -3,7 +3,7 @@ venv/
 
 # Ignore data folders
 processed/
-raw/
+RawData/
 
 # Ignore Python cache
 __pycache__/
