@@ -1,8 +1,9 @@
 # Ignore virtual environment
-venv/
+venvGrasp/
 
 # Ignore data folders
 processed/
+
 RawData/
 
 # Ignore Python cache
