@@ -2,7 +2,8 @@ import os
 import re
 import pandas as pd
 
-def extract_config_segments(user_folder: str, output_folder: str, time_buffer: float = 0.5):
+def extract_config_segments(user_folder: str, output_folder: str, time_buffer: float = 0.01):
+
     """
     Extracts config segments from each transform log file based on event log timelines.
 
